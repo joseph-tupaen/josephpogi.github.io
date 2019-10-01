@@ -45,7 +45,6 @@ body{
 #footer{
     background-color: #2f2f2f;
     padding: 20px 0;
-   
 }
 .column{
     min-width: 300px;
@@ -104,9 +103,6 @@ p{
 .post-container:nth-child(even) {
     background-color: #e6e1e1;
 }
-#main{
-    position: relative;
-    min-height: 100vh;
-}
+
 
 
